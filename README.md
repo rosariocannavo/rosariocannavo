@@ -1,7 +1,5 @@
 ### Hi there, I'm Rosario 👋
 
-
-### Stats 📈📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosariocannavo&show_icons=true&theme=radical) 
 
 <h2 align="center">I like to experiment with </h2>
