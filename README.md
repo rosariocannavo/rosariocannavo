@@ -2,8 +2,7 @@
 
 
 ### Stats 📈📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosariocannavo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosariocannavo&show_icons=true&theme=radical) 
 
 <h2 align="center">I like to experiment with </h2>
 <div>
