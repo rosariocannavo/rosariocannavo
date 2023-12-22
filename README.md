@@ -1,6 +1,6 @@
 ### Hi there, I'm Rosario 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rosariocannavo&hide=tex,jupyter%20notebook,html&langs_count=5&repo=multimedia-project)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rosariocannavo&hide=javascript,tex,jupyter%20notebook,html&langs_count=4&repo=mantellinas/multimedia-project)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosariocannavo&show_icons=true&theme=radical) 
 
